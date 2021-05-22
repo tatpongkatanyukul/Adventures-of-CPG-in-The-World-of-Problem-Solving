@@ -3,6 +3,7 @@
     * C. Herdendorf, Captain James Cook and the transits of mercury and venus. Journal of Pacific History 1986
     * How could transit of Venus helps solve a distance between earth and the sun
       * "To use the transits as an accurate measure of the distance from the Earth to the Sun, observations had to be made from widely-spaced locations."
+      * "Edmond Halley was the first to develop a method for making the complex calculations. He published his most important paper on the transit of Venus in 1716, knowing he would not live long enough to witness the next transit in 1761."
       * src: https://www.mhs.ox.ac.uk/venus/html/exhibition/expeditions.htm
       * 
       
