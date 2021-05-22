@@ -32,6 +32,8 @@
 
 
 > The simple example which follows is intended only to give you a flavor for the method; real astronomers in the eighteenth and nineteenth centuries included a host of complications and subtleties in their observations, measurements and analysis.
+> Measure the parallax angle: "Just how large is the apparent shift in the position of Venus? This shift is called the "parallax angle", or "parallax" for short."
+> "To be precise, the diameter of the Sun during this transit is 1891 arcseconds. There are 60 arcseconds in one arcminute, and 60 arcminutes in one degree, which means 3600 arcseconds in one degree. Astronomers use arcseconds to measure small angles; it's more convenient to write '10 arcseconds' than '0.00277 degrees.'"
 
 src: [Michael Richmond. Using a transit of Venus to determine the Astronomical Unit: a simple example. June 7, 2004 (retrieved May 22, 2021)](http://spiff.rit.edu/classes/phys445/gettys/venus_ex/venus_ex.html)
 
