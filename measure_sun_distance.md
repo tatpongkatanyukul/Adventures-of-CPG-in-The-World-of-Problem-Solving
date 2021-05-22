@@ -1,4 +1,9 @@
 # How to measure a distance between earth and the sun
+  * 3rd-century BC Aristarchus used half illuminated Moon (indicating that it formed a right triangle with the Earth and the Sun) and triangulation to estimate the distance)
+  * 1653 Christiaan Huygens used triangulation of sun, venus, and earth. Again he used half illuminated venus.
+    * src: http://www.badastronomy.com/mad/1996/au.html 
+  * 1672 Giovanni Casini used parallax on Mars from Paris and Cayenne, French Guiana.
+  
   * Attempt of the Royal Society leading to Captain Cook expedition 1769-1779 in Tahiti
     * C. Herdendorf, Captain James Cook and the transits of mercury and venus. Journal of Pacific History 1986
     * How could transit of Venus helps solve a distance between earth and the sun
@@ -67,6 +72,7 @@ src: [Michael Richmond. Using a transit of Venus to determine the Astronomical U
       * src: https://astronomy.swin.edu.au/cosmos/a/Angular+Diameter
         * OK! Clear! We can build an apparatus to measure it, e.g., having an object close to the telescope that shadow the sun, move the shadow edge to edge of the sun and measure the distance of the move and the distance between the object and the telescope. Then, we can work out the angle. 
     * 2. How do Kepler come up with a relation between orbital period and AU?
+      * Perhaps, triangulation with the half-illuminated planet, e.g., venus.
 
 # Parallax
 
