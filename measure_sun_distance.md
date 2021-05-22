@@ -144,3 +144,6 @@ src: https://spacemath.gsfc.nasa.gov/transits/TRACEvenus.html
       * 1891 arcseconds ~ 0.52527778 degrees (i.e., angular diameter of the sun)
   * 3. Distance to the sun is a venus distance (from 2)/relative venus distance (from 1): x = xv  (xv/x).
   
+## My Take on Fining Parallax Angle
+
+![Parallax Angle](https://github.com/tatpongkatanyukul/Adventures-of-CPG-in-The-World-of-Problem-Solving/raw/main/ParallaxVenus.png)
