@@ -37,9 +37,9 @@
 
 > "To be precise, the diameter of the Sun during this transit is 1891 arcseconds. There are 60 arcseconds in one arcminute, and 60 arcminutes in one degree, which means 3600 arcseconds in one degree. Astronomers use arcseconds to measure small angles; it's more convenient to write '10 arcseconds' than '0.00277 degrees.'"
 
-> "Use the Sun as a yardstick: it is 1891 arcseconds in diameter"
-> "Measure the north-south shift of Venus as seen from the two locations"
-> "Express this shift in arcseconds and in degrees"
+  * "Use the Sun as a yardstick: it is 1891 arcseconds in diameter"
+  * "Measure the north-south shift of Venus as seen from the two locations"
+  * "Express this shift in arcseconds and in degrees"
 
 src: [Michael Richmond. Using a transit of Venus to determine the Astronomical Unit: a simple example. June 7, 2004 (retrieved May 22, 2021)](http://spiff.rit.edu/classes/phys445/gettys/venus_ex/venus_ex.html)
 
