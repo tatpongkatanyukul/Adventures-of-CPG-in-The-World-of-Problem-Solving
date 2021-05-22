@@ -62,7 +62,7 @@ src: [Michael Richmond. Using a transit of Venus to determine the Astronomical U
   * Good! but my itches now are:
     * 1. How do they come up with "the diameter of the Sun during this transit is 1891 arcseconds"?
       * "The angular diameter of an object is the angle the object makes (subtends) as seen by an observer. This is demonstrated in the diagram below, where the angular diameter of the object appears larger to an observer at A (closer to the object) than to an observer at B."
-      * ![angular diameter]()
+      * ![angular diameter](https://github.com/tatpongkatanyukul/Adventures-of-CPG-in-The-World-of-Problem-Solving/raw/main/angulardiameterA.gif)
       * https://astronomy.swin.edu.au/cosmos/a/Angular+Diameter
     * 2. How do Kepler come up with a relation between orbital period and AU?
 
