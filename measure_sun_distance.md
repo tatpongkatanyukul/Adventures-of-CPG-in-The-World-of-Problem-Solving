@@ -11,3 +11,9 @@
       > Whilst the mathematics simply involves trigonometry, the conceptualization of what is happening and what needs to be taken into account is not trivial, therefore to help if needed, a spreadsheet has also been provided that will compute the result for you."
       * src: https://sci.esa.int/web/education/-/57806-calculating-the-earth-sun-distance-from-transits
 
+      > "The Sun must never be viewed directly, and you must never look through the eyepiece of a telescope to view the Sun.
+      > The safest way to view the transit of Mercury is to project the Sun onto a shaded white surface using a telescope or a pair of binoculars.
+      * src: http://www.esa.int/Education/Teachers_Corner/Observing_tips
+
+
+
