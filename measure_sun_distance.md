@@ -31,4 +31,7 @@
       * src: http://www.esa.int/Education/Teachers_Corner/Observing_tips
 
 
+> The simple example which follows is intended only to give you a flavor for the method; real astronomers in the eighteenth and nineteenth centuries included a host of complications and subtleties in their observations, measurements and analysis.
+
+src: [Michael Richmond. Using a transit of Venus to determine the Astronomical Unit: a simple example. June 7, 2004 (retrieved May 22, 2021)](http://spiff.rit.edu/classes/phys445/gettys/venus_ex/venus_ex.html)
 
