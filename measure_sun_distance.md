@@ -52,6 +52,8 @@
 |  Jupiter  |  11.86         |       5.20               |
 |  Saturn   |  29.46         |       9.55               |
 
+  * "Based on your value for the Earth-Venus distance, and the orbital radii shown above, calculate the size of the Astronomical Unit."
+    * That is, AU * 0.615 = x, where x is the distance between earth and Venus: x = d/(2 arctan(theta/2)) when d is a distance between 2 observation points (e.g., Tahiti and Norway) and theta is the parallax angle. 
 
 src: [Michael Richmond. Using a transit of Venus to determine the Astronomical Unit: a simple example. June 7, 2004 (retrieved May 22, 2021)](http://spiff.rit.edu/classes/phys445/gettys/venus_ex/venus_ex.html)
 
