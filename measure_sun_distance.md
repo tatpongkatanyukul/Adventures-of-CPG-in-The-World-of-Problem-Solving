@@ -74,4 +74,8 @@ In ordinary land surveying, imagine a distant mountain peak and two observers ar
 
 ## Introduction to Parallax
 
+Suppose it was hard for you to measure the two base angles in the triangulation method. This could easily happen if the object were so far away that your instrument could not accurately discern that these angles were different than 90 degrees. For example, if the object is 10 miles away, and your baseline is only 5 feet long, the two base angles would have a measure of 89.9946 degrees. This angle differs from 90 degrees by only 0.0044 degrees which equals 16 seconds of arc (there are 60 minutes or arc/degree x 60 seconds of arc/minute of arc = 3600 seconds of arc per degree!) This would be a very difficult angle to measure even with very expensive modern surveying equipment!
+
+Astronomers run into this problem all the time. To solve this problem, they don't bother measuring the base angles at all. Instead, they measure the vertex angle in the triangle. It turns out that this angle is very easily measured using photographic techniques. The method is called trigonometric parallax or just 'parallax' for short. Here's how it works:
+
 src: https://spacemath.gsfc.nasa.gov/transits/TRACEvenus.html
