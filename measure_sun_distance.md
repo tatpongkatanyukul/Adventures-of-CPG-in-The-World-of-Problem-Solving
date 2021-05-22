@@ -68,7 +68,7 @@ Suppose you were trying to measure the width of a canyon from your side to the d
 
 Surveyors and geologists encounter this kind of problem all the time, and over the course of centuries, they have found a simple way to sole this problem. They use a method called 'triangulation'. Here's how it works:
 
-![Triangulation]()
+![Triangulation](https://github.com/tatpongkatanyukul/Adventures-of-CPG-in-The-World-of-Problem-Solving/raw/main/triangulation.jpg)
 
 In ordinary land surveying, imagine a distant mountain peak and two observers are located at 'A' and 'B' separated by a few miles (the length 'S'). The base angles at A and B can be measured with an instrument called a theodolite. By knowing the base distance A to B, and the baseline distance S, the distance to the peak can be worked out with a simple scaled drawing or with trigonometry.
 
