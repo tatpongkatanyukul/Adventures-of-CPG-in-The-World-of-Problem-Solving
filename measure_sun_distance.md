@@ -74,6 +74,8 @@ src: [Michael Richmond. Using a transit of Venus to determine the Astronomical U
     * 2. How do Kepler come up with a relation between orbital period and AU?
       * Perhaps, triangulation with the half-illuminated planet, e.g., venus.
 
+![Venus Triangulation](https://github.com/tatpongkatanyukul/Adventures-of-CPG-in-The-World-of-Problem-Solving/raw/main/triangulation_dx.png)
+
 # Parallax
 
 ## Introduction to Triangulation
