@@ -175,9 +175,10 @@ Solution (My take, it may not be correct!)
   * (But, this does not need parallax at all!)
 
 Another solution (My take 2!): this one uses angular diameter of the sun, but do not use venus velocity
-  * Given angular diameter of the sun, find the angle projected to venus location: phi' = 
-    * tan A = c/a; tan B = c/b
+  * Given angular diameter of the sun, find the angle projected to venus location: phi' = arctan( (b+1)/b tan(phi) )
+    * From (see the picture): tan A = c/a; tan B = c/b where c is a common side (on the bottom, I forgot to put in the picture)
     * Thus, c = a tan A. Then, tan B = a/b tan A.
     * B = arctan(a/b tan A). 
+  * Then parallax angle theta can be estimated from P'/D' = theta/phi'
 
 ![Parallax angle](https://github.com/tatpongkatanyukul/Adventures-of-CPG-in-The-World-of-Problem-Solving/raw/main/scale.png)
