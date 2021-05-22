@@ -98,7 +98,7 @@ Note ... **The Parallax Shift angle** is actually twice as large as the angle us
 
 The TRACE satellite orbits Earth and has its sensors trained on the surface of the Sun to search for solar flares. The changing perspective of the location of Venus in its orbit also leads to a parallax shift. Here is a close-up of the consecutive images of Venus as it traveled across the sun on June 8, 2004:
 
-![Venus Trace]()
+![Venus Trace](https://github.com/tatpongkatanyukul/Adventures-of-CPG-in-The-World-of-Problem-Solving/raw/main/nasa_Venus_Trace2004.gif)
 
 The composite shows the position of Venus roughly every 450 seconds.
 
