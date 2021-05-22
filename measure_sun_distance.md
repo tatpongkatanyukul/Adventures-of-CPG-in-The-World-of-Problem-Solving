@@ -4,6 +4,8 @@
     * How could transit of Venus helps solve a distance between earth and the sun
       * "To use the transits as an accurate measure of the distance from the Earth to the Sun, observations had to be made from widely-spaced locations."
       * "Edmond Halley was the first to develop a method for making the complex calculations. He published his most important paper on the transit of Venus in 1716, knowing he would not live long enough to witness the next transit in 1761."
+      * "The favoured instruments of the major British expeditions of the 18th century were reflecting telescopes, which use a mirror rather than a lens as the primary optical component. The preferred supplier was James Short, who specialised exclusively in the manufacture of reflectors."
+      * "The telescopes were used together with an expeditions clocks to see and time the key moments of a transit. By adding a micrometer, a telescope could also be converted into a measuring instrument, so that small angles such as the diameter of Venus could be accurately determined."
       * src: https://www.mhs.ox.ac.uk/venus/html/exhibition/expeditions.htm
       * 
       
