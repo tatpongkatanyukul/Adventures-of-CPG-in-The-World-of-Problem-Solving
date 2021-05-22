@@ -147,3 +147,16 @@ src: https://spacemath.gsfc.nasa.gov/transits/TRACEvenus.html
 ## My Take on Fining Parallax Angle
 
 ![Parallax Angle](https://github.com/tatpongkatanyukul/Adventures-of-CPG-in-The-World-of-Problem-Solving/raw/main/ParallaxVenus.png)
+
+Given:
+  * b (relative distance from venus to the sun, bx = 0.723 AU, where AU is a distance from earth to the sun)
+    * from Venus triangulation
+  * P (relative value, from measure)
+  * L (relative value, from measure)
+  * Transit time t (from measure)
+  * Venus speed v1 (225 days/revolution, from observation)
+  * Earth speed v0 (365 days/revolution, from observation)
+  * d (from measure) 
+Find
+  * parallax angle theta
+
