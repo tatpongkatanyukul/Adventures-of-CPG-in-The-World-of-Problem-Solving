@@ -157,6 +157,7 @@ Given:
   * Venus speed v1 (225 days/revolution, from observation)
   * Earth speed v0 (365 days/revolution, from observation)
   * d (from measure) 
+  * Angular diameter of the sun (1891 arcseconds ~ 0.52527778 degrees, from different measure)
 
 Find
   * parallax angle theta
