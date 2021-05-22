@@ -65,6 +65,7 @@ src: [Michael Richmond. Using a transit of Venus to determine the Astronomical U
       * ![angular diameter](https://github.com/tatpongkatanyukul/Adventures-of-CPG-in-The-World-of-Problem-Solving/raw/main/angulardiameterA.gif)
       * For an observer on the Earth, the angular diameter of the Moon and the Sun are quite similar ( ~ 0.5 degree = 30 arcmin). In reality, the Sun’s physical diameter is 400 times bigger than the Moon, while the Moon is ~ 400 times closer to the Earth.
       * src: https://astronomy.swin.edu.au/cosmos/a/Angular+Diameter
+        * OK! Clear! We can build an apparatus to measure it, e.g., having an object close to the telescope that shadow the sun, move the shadow edge to edge of the sun and measure the distance of the move and the distance between the object and the telescope. Then, we can work out the angle. 
     * 2. How do Kepler come up with a relation between orbital period and AU?
 
 # Parallax
