@@ -157,6 +157,7 @@ Given:
   * Venus speed v1 (225 days/revolution, from observation)
   * Earth speed v0 (365 days/revolution, from observation)
   * d (from measure) 
+
 Find
   * parallax angle theta
 
