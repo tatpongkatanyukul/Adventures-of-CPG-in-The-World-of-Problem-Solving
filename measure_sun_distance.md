@@ -154,7 +154,7 @@ Given:
   * P' (relative value, from measure); the absolute P cannot be seen directly
   * L' (relative value, from measure); the absolute L cannot be seen directly
   * D' (relative diameter of the sun); the absolute D cannot be seen directly
-  * Transit time t (from measure)
+  * Transit time t (from measure, e.g., 5850 seconds)
   * Venus speed v1 (225 days/revolution, from observation)
   * Earth speed v0 (365 days/revolution, from observation)
   * d (from measure) 
