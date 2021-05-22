@@ -14,6 +14,7 @@
       * "The most crucial moment was “internal contact”, when Venus should have been a perfect circle touching the edge of the Sun. Instead, it often appeared elongated and distorted. How could a precise instant of contact be established when Venus was afflicted with this problem of the “black drop”?"
       * "Even if an expedition’s observers could reconcile their own results, there was the further problem of comparing them with others from around the world."
       * "Working with a mass of data required not just mathematical proficiency and stamina, but the ability to select. Precision astronomy here depended ultimately on individual judgement."
+      * "**The current value of the Earth-Sun distance is based on radar measurements**, with a precision and accuracy undreamt of by earlier investigators."
       * src: https://www.mhs.ox.ac.uk/venus/html/exhibition/expeditions.htm
       * 
       
