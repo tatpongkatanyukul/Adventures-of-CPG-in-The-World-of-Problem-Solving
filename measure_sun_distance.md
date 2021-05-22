@@ -175,4 +175,9 @@ Solution (My take, it may not be correct!)
   * (But, this does not need parallax at all!)
 
 Another solution (My take 2!): this one uses angular diameter of the sun, but do not use venus velocity
-  * 
+  * Given angular diameter of the sun, find the angle projected to venus location: phi' = 
+    * tan A = c/a; tan B = c/b
+    * Thus, c = a tan A. Then, tan B = a/b tan A.
+    * B = arctan(a/b tan A). 
+
+![Parallax angle](https://github.com/tatpongkatanyukul/Adventures-of-CPG-in-The-World-of-Problem-Solving/raw/main/scale.png)
