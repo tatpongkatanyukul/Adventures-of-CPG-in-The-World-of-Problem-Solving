@@ -30,8 +30,11 @@
       > The safest way to view the transit of Mercury is to project the Sun onto a shaded white surface using a telescope or a pair of binoculars.
       * src: http://www.esa.int/Education/Teachers_Corner/Observing_tips
 
+![Richmond Venus Transit](https://github.com/tatpongkatanyukul/Adventures-of-CPG-in-The-World-of-Problem-Solving/raw/main/RichmondExplain_transit_trig.gif)
 
 > The simple example which follows is intended only to give you a flavor for the method; real astronomers in the eighteenth and nineteenth centuries included a host of complications and subtleties in their observations, measurements and analysis.
+
+![Richmond Venus Transit](https://github.com/tatpongkatanyukul/Adventures-of-CPG-in-The-World-of-Problem-Solving/raw/main/RichmondExplain_two_paths.gif)
 
 > Measure the parallax angle: "Just how large is the apparent shift in the position of Venus? This shift is called the "parallax angle", or "parallax" for short."
 
@@ -78,4 +81,7 @@ Suppose it was hard for you to measure the two base angles in the triangulation 
 
 Astronomers run into this problem all the time. To solve this problem, they don't bother measuring the base angles at all. Instead, they measure the vertex angle in the triangle. It turns out that this angle is very easily measured using photographic techniques. The method is called trigonometric parallax or just 'parallax' for short. Here's how it works:
 
+![Parallax](https://github.com/tatpongkatanyukul/Adventures-of-CPG-in-The-World-of-Problem-Solving/raw/main/parallax.gif)
+
+Extend your arm in front of you, hold your thumb up, and alternately open and close your eyes. You will see your thumb's position move against the more distant background in front of you. Astronomers call this the parallax shift angle as the figure below illustrates:
 src: https://spacemath.gsfc.nasa.gov/transits/TRACEvenus.html
