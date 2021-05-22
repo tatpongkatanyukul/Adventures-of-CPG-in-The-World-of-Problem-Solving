@@ -104,4 +104,18 @@ The composite shows the position of Venus roughly every 450 seconds.
 
 Teacher Note: By counting the number of exposures from peak to peak (about 13) students can calculate that the orbit period for this satellite is 5850 seconds = 97.5 minutes, which is typical for satellites orbiting within a few hundred kilometers of earth's surface.
 
+### Method 2: Parallax calculation using image analysis
+
+We can also use the TRACE Venus Transit image to determine the distance to Venus. To do this, we first have to determine the scale of the print so we can measure the parallax angle q. 
+
+#### Procedure:
+Step 1: Print the TRACE image above on a separate piece of paper.
+
+Step 2: Cut the image out, and carefully tape it by its outer edge to a large sheet of paper. To give yourself room for Step 2, place the image above the center of the page, half way to its top edge.
+
+Step 3: Through trial and error using a string, a tack and a pencil, draw a circle whose perimeter passes exactly across the edges of the solar disk shown in the picture. Measure the diameter of this solar circle in millimeters. A value near 287 millimeters is reasonable if you are working from the normal print version of the above image.
+
+Step 4: At the time of the transit, the angular diameter of the sun is known by astronomers to be 0.53 degrees (1891 arcseconds) . Calculate the scale of the solar circle in degrees per millimeter by dividing 0.53 degrees by the measured diameter of the sun circle (287 millimeters) . Call this number 'A'. A value near 0.0018 degrees per millimeter is appropriate.
+
+
 src: https://spacemath.gsfc.nasa.gov/transits/TRACEvenus.html
