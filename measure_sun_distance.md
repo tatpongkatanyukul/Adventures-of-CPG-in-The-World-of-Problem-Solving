@@ -161,5 +161,6 @@ Given:
 
 Find
   * parallax angle theta
-  * distance between Venus and earth x
+  * x distance between Venus and earth
+  * AU distance between earth and the sun
 
