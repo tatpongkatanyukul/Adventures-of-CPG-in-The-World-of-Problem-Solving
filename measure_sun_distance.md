@@ -131,3 +131,9 @@ Step 3: Through trial and error using a string, a tack and a pencil, draw a circ
 Step 4: At the time of the transit, the angular diameter of the sun is known by astronomers to be 0.53 degrees (1891 arcseconds) . Calculate the scale of the solar circle in degrees per millimeter by dividing 0.53 degrees by the measured diameter of the sun circle (287 millimeters) . Call this number 'A'. A value near 0.0018 degrees per millimeter is appropriate.
 
 src: https://spacemath.gsfc.nasa.gov/transits/TRACEvenus.html
+
+
+## Recap: measure the distance between earth and the sun
+  * 1. Use parallax to find distance between earth and venus.
+    * d/x = tan(P/2)  
+  * 2. Use relative distance betweem venus-earth and sun-earth to get the exact distance between earth and the sun.
