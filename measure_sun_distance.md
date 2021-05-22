@@ -9,6 +9,7 @@
       * "Those observers sent on expeditions were travelling to sites selected primarily for their geographical position." 
       * "But factors such as climate and the current relations with indigenous peoples and other European nations were also factors in the process of selection. War between Britain and France disrupted the plans of some observers in 1761." 
       * "Beyond their astronomical mission, the larger expeditions provided opportunities for more extensive exploration. The botanist Joseph Banks launched his career as a natural historian on Captain Cook’s voyage, returning as a celebrity with new species and dramatic tales of discovery."
+      * "... Rather than converging towards a single value for the distance from the Earth to the Sun, different astronomers arrived at slightly different results. This spread of values left the sense that “the most noble problem in nature” was yet to be conclusively settled.
       * src: https://www.mhs.ox.ac.uk/venus/html/exhibition/expeditions.htm
       * 
       
