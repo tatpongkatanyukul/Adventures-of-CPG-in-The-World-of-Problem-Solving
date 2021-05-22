@@ -4,6 +4,7 @@
     * How could transit of Venus helps solve a distance between earth and the sun
       * "To use the transits as an accurate measure of the distance from the Earth to the Sun, observations had to be made from widely-spaced locations."
       * src: https://www.mhs.ox.ac.uk/venus/html/exhibition/expeditions.htm
+      * 
       
       > "In these methods you will compare tracks of Mercury across the disc of the Sun as seen from two different observing sites. Using the two sets of tracks you can determine the angular shift, or parallax, (in seconds of arc, between the two tracks at one particular time). The distance between the Earth and the Sun can be determined with, the value of the angular shift and the distance between the two observing sites.
 
