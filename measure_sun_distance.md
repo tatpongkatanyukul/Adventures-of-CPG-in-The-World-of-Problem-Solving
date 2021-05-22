@@ -173,3 +173,6 @@ Solution (My take, it may not be correct!)
   * From trigonometry, 0.5D/(bx + x) = tan(phi/2), where phi = Angular diameter of the sun.
   * Then x can be solved!
   * (But, this does not need parallax at all!)
+
+Another solution (My take 2!): this one uses angular diameter of the sun, but do not use venus velocity
+  * 
