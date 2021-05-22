@@ -81,7 +81,13 @@ Suppose it was hard for you to measure the two base angles in the triangulation 
 
 Astronomers run into this problem all the time. To solve this problem, they don't bother measuring the base angles at all. Instead, they measure the vertex angle in the triangle. It turns out that this angle is very easily measured using photographic techniques. The method is called trigonometric parallax or just 'parallax' for short. Here's how it works:
 
-![Parallax](https://github.com/tatpongkatanyukul/Adventures-of-CPG-in-The-World-of-Problem-Solving/raw/main/parallax.gif)
 
 Extend your arm in front of you, hold your thumb up, and alternately open and close your eyes. You will see your thumb's position move against the more distant background in front of you. Astronomers call this the parallax shift angle as the figure below illustrates:
+
+![Parallax](https://github.com/tatpongkatanyukul/Adventures-of-CPG-in-The-World-of-Problem-Solving/raw/main/parallax.gif)
+
+
+From the above figure, by knowing the distance from your nose to one of your eyes, R, and this Parallax Shift angle in degrees, you can calculate the distance to your thumb (D)! The formula that you use is: tan(P/2) = R / D
+
+
 src: https://spacemath.gsfc.nasa.gov/transits/TRACEvenus.html
