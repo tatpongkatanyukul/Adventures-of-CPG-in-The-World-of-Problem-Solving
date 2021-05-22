@@ -165,3 +165,11 @@ Find
   * x distance between Venus and earth
   * AU distance between earth and the sun
 
+Solution (My take, it may not be correct!)
+  * effective venus velocity observed from earth v' = v1 - v0
+  * shadow velocity = v' (b + 1), from v'/x = v_shadow/(bx + x)
+  * With time t, L = t * v' (b + 1).
+  * Then, sun diameter D = D' * L/L'
+  * From trigonometry, 0.5D/(bx + x) = tan(phi/2), where phi = Angular diameter of the sun.
+  * Then x can be solved!
+  * (But, this does not need parallax at all!)
