@@ -10,6 +10,10 @@
       * "But factors such as climate and the current relations with indigenous peoples and other European nations were also factors in the process of selection. War between Britain and France disrupted the plans of some observers in 1761." 
       * "Beyond their astronomical mission, the larger expeditions provided opportunities for more extensive exploration. The botanist Joseph Banks launched his career as a natural historian on Captain Cook’s voyage, returning as a celebrity with new species and dramatic tales of discovery."
       * "... Rather than converging towards a single value for the distance from the Earth to the Sun, different astronomers arrived at slightly different results. This spread of values left the sense that “the most noble problem in nature” was yet to be conclusively settled.
+      * "Edmond Halley had envisaged a method in which observers could agree on the timing of a transit to the precise second." 
+      * "The most crucial moment was “internal contact”, when Venus should have been a perfect circle touching the edge of the Sun. Instead, it often appeared elongated and distorted. How could a precise instant of contact be established when Venus was afflicted with this problem of the “black drop”?"
+      * "Even if an expedition’s observers could reconcile their own results, there was the further problem of comparing them with others from around the world."
+      * "Working with a mass of data required not just mathematical proficiency and stamina, but the ability to select. Precision astronomy here depended ultimately on individual judgement."
       * src: https://www.mhs.ox.ac.uk/venus/html/exhibition/expeditions.htm
       * 
       
