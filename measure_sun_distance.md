@@ -61,6 +61,9 @@
 src: [Michael Richmond. Using a transit of Venus to determine the Astronomical Unit: a simple example. June 7, 2004 (retrieved May 22, 2021)](http://spiff.rit.edu/classes/phys445/gettys/venus_ex/venus_ex.html)
   * Good! but my itches now are:
     * 1. How do they come up with "the diameter of the Sun during this transit is 1891 arcseconds"?
+      * "The angular diameter of an object is the angle the object makes (subtends) as seen by an observer. This is demonstrated in the diagram below, where the angular diameter of the object appears larger to an observer at A (closer to the object) than to an observer at B."
+      * ![angular diameter]()
+      * https://astronomy.swin.edu.au/cosmos/a/Angular+Diameter
     * 2. How do Kepler come up with a relation between orbital period and AU?
 
 # Parallax
@@ -116,6 +119,5 @@ Step 2: Cut the image out, and carefully tape it by its outer edge to a large sh
 Step 3: Through trial and error using a string, a tack and a pencil, draw a circle whose perimeter passes exactly across the edges of the solar disk shown in the picture. Measure the diameter of this solar circle in millimeters. A value near 287 millimeters is reasonable if you are working from the normal print version of the above image.
 
 Step 4: At the time of the transit, the angular diameter of the sun is known by astronomers to be 0.53 degrees (1891 arcseconds) . Calculate the scale of the solar circle in degrees per millimeter by dividing 0.53 degrees by the measured diameter of the sun circle (287 millimeters) . Call this number 'A'. A value near 0.0018 degrees per millimeter is appropriate.
-
 
 src: https://spacemath.gsfc.nasa.gov/transits/TRACEvenus.html
