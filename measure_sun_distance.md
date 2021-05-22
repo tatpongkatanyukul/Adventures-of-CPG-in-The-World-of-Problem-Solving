@@ -180,5 +180,6 @@ Another solution (My take 2!): this one uses angular diameter of the sun, but do
     * Thus, c = a tan A. Then, tan B = a/b tan A.
     * B = arctan(a/b tan A). 
   * Then parallax angle theta can be estimated from P'/D' = theta/phi'
+  * With theta, distance (venus-earth) x = d/(2 tan(theta/2))
 
 ![Parallax angle](https://github.com/tatpongkatanyukul/Adventures-of-CPG-in-The-World-of-Problem-Solving/raw/main/scale.png)
