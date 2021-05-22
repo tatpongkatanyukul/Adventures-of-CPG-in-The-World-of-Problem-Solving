@@ -93,4 +93,6 @@ Note ... **The Parallax Shift angle** is actually twice as large as the angle us
 
 "... Kepler's Third Law' which states that the orbital period-squared equals the distance to the sun-cubed."
 
+> In 1663, Rev. James Gregory who was an astronomer and mathematician considered, suggested that a more accurate measurement of the Earth-Sun distance could be made. He showed how this distance could be measured from observations of the transit of Venus made from various widely separate geographical locations.  A few years later, Sir Edmund Halley, made the same suggestion in 1677, and published the details of this technique in 1716. Sir Edmund Halley described in detail how scientists from various nations could observe the upcoming 1761 and 1769 transits of Venus from many parts of the world. From the parallax shifts they would measure, they would be able to measure this distance from the Earth to Venus and the sun with near-perfect accuracy.
+
 src: https://spacemath.gsfc.nasa.gov/transits/TRACEvenus.html
