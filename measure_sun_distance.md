@@ -43,8 +43,7 @@
 
 > "As you may recall, Kepler and other astronomers had figured out the relative sizes of the planetary orbits:"
 
-| Planet    | Orbital period |  Orbital semi-major axis | 
-|           | (years)        |  (AU)                    |
+| Planet    | Orbital period (years)|  Orbital semi-major axis (AU)| 
 |-----------|----------------|--------------------------|
 |  Mercury  |   0.241        |       0.387              |
 |  Venus    |   0.615        |       0.723              |    
@@ -52,7 +51,7 @@
 |  Mars     |   1.88         |       1.52               |
 |  Jupiter  |  11.86         |       5.20               |
 |  Saturn   |  29.46         |       9.55               |
-|-----------|----------------|--------------------------|
+
 
 src: [Michael Richmond. Using a transit of Venus to determine the Astronomical Unit: a simple example. June 7, 2004 (retrieved May 22, 2021)](http://spiff.rit.edu/classes/phys445/gettys/venus_ex/venus_ex.html)
 
