@@ -89,5 +89,7 @@ Extend your arm in front of you, hold your thumb up, and alternately open and cl
 
 From the above figure, by knowing the distance from your nose to one of your eyes, R, and this Parallax Shift angle in degrees, you can calculate the distance to your thumb (D)! The formula that you use is: tan(P/2) = R / D
 
+Note ... **The Parallax Shift angle** is actually twice as large as the angle used in computing the Tangent of R/D.
+
 
 src: https://spacemath.gsfc.nasa.gov/transits/TRACEvenus.html
