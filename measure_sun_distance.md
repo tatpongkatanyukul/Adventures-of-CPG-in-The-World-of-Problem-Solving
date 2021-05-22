@@ -6,6 +6,9 @@
       * "Edmond Halley was the first to develop a method for making the complex calculations. He published his most important paper on the transit of Venus in 1716, knowing he would not live long enough to witness the next transit in 1761."
       * "The favoured instruments of the major British expeditions of the 18th century were reflecting telescopes, which use a mirror rather than a lens as the primary optical component. The preferred supplier was James Short, who specialised exclusively in the manufacture of reflectors."
       * "The telescopes were used together with an expeditions clocks to see and time the key moments of a transit. By adding a micrometer, a telescope could also be converted into a measuring instrument, so that small angles such as the diameter of Venus could be accurately determined."
+      * "Those observers sent on expeditions were travelling to sites selected primarily for their geographical position." 
+      * "But factors such as climate and the current relations with indigenous peoples and other European nations were also factors in the process of selection. War between Britain and France disrupted the plans of some observers in 1761." 
+      * "Beyond their astronomical mission, the larger expeditions provided opportunities for more extensive exploration. The botanist Joseph Banks launched his career as a natural historian on Captain Cook’s voyage, returning as a celebrity with new species and dramatic tales of discovery."
       * src: https://www.mhs.ox.ac.uk/venus/html/exhibition/expeditions.htm
       * 
       
