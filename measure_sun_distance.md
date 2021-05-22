@@ -16,7 +16,7 @@
       * "Working with a mass of data required not just mathematical proficiency and stamina, but the ability to select. Precision astronomy here depended ultimately on individual judgement."
       * "**The current value of the Earth-Sun distance is based on radar measurements**, with a precision and accuracy undreamt of by earlier investigators."
       * src: https://www.mhs.ox.ac.uk/venus/html/exhibition/expeditions.htm
-      * "Recording the exact moment of the phases proved to be impossible due to a phenomenon called the **Black drop effect.**"
+      * "Recording the exact moment of the phases proved to be impossible due to a phenomenon called the Black drop effect. ...  ... Recent studies now reveal that it is actually turbulence in the Earth's atmosphere that leads to the smearing of the image of Venus."
       * src: https://en.wikipedia.org/wiki/1769_transit_of_Venus_observed_from_Tahiti#Choosing_an_island,_a_ship_and_a_Captain
       
       > "In these methods you will compare tracks of Mercury across the disc of the Sun as seen from two different observing sites. Using the two sets of tracks you can determine the angular shift, or parallax, (in seconds of arc, between the two tracks at one particular time). The distance between the Earth and the Sun can be determined with, the value of the angular shift and the distance between the two observing sites.
