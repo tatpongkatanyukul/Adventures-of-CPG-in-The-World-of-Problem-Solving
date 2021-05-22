@@ -56,4 +56,6 @@
     * That is, AU * 0.615 = x, where x is the distance between earth and Venus: x = d/(2 arctan(theta/2)) when d is a distance between 2 observation points (e.g., Tahiti and Norway) and theta is the parallax angle. 
 
 src: [Michael Richmond. Using a transit of Venus to determine the Astronomical Unit: a simple example. June 7, 2004 (retrieved May 22, 2021)](http://spiff.rit.edu/classes/phys445/gettys/venus_ex/venus_ex.html)
-
+  * Good! but my itches now are:
+    * 1. How do they come up with "the diameter of the Sun during this transit is 1891 arcseconds"?
+    * 2. How do Kepler come up with a relation between orbital period and AU?
