@@ -59,3 +59,19 @@ src: [Michael Richmond. Using a transit of Venus to determine the Astronomical U
   * Good! but my itches now are:
     * 1. How do they come up with "the diameter of the Sun during this transit is 1891 arcseconds"?
     * 2. How do Kepler come up with a relation between orbital period and AU?
+
+# Parallax
+
+## Introduction to Triangulation
+
+Suppose you were trying to measure the width of a canyon from your side to the distant canyon wall. You couldn't pace the distance. Could you come up with a way to make this measurement safely?
+
+Surveyors and geologists encounter this kind of problem all the time, and over the course of centuries, they have found a simple way to sole this problem. They use a method called 'triangulation'. Here's how it works:
+
+![Triangulation]()
+
+In ordinary land surveying, imagine a distant mountain peak and two observers are located at 'A' and 'B' separated by a few miles (the length 'S'). The base angles at A and B can be measured with an instrument called a theodolite. By knowing the base distance A to B, and the baseline distance S, the distance to the peak can be worked out with a simple scaled drawing or with trigonometry.
+
+## Introduction to Parallax
+
+src: https://spacemath.gsfc.nasa.gov/transits/TRACEvenus.html
