@@ -1,4 +1,4 @@
-# AdventuresCPGinTheWorld
+# Adventures of Computer Programming in The World of Problem Solving: Curiosity Quest
 
 I dream of composing my curiosity-driven programming problems into a book. It may happen or it may not. But, I love to learn.
 
