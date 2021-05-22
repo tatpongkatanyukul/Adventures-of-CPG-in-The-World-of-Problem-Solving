@@ -95,4 +95,13 @@ Note ... **The Parallax Shift angle** is actually twice as large as the angle us
 
 > In 1663, Rev. James Gregory who was an astronomer and mathematician considered, suggested that a more accurate measurement of the Earth-Sun distance could be made. He showed how this distance could be measured from observations of the transit of Venus made from various widely separate geographical locations.  A few years later, Sir Edmund Halley, made the same suggestion in 1677, and published the details of this technique in 1716. Sir Edmund Halley described in detail how scientists from various nations could observe the upcoming 1761 and 1769 transits of Venus from many parts of the world. From the parallax shifts they would measure, they would be able to measure this distance from the Earth to Venus and the sun with near-perfect accuracy.
 
+
+The TRACE satellite orbits Earth and has its sensors trained on the surface of the Sun to search for solar flares. The changing perspective of the location of Venus in its orbit also leads to a parallax shift. Here is a close-up of the consecutive images of Venus as it traveled across the sun on June 8, 2004:
+
+![Venus Trace]()
+
+The composite shows the position of Venus roughly every 450 seconds.
+
+Teacher Note: By counting the number of exposures from peak to peak (about 13) students can calculate that the orbit period for this satellite is 5850 seconds = 97.5 minutes, which is typical for satellites orbiting within a few hundred kilometers of earth's surface.
+
 src: https://spacemath.gsfc.nasa.gov/transits/TRACEvenus.html
