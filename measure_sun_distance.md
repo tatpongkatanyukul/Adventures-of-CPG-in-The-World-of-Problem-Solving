@@ -91,5 +91,6 @@ From the above figure, by knowing the distance from your nose to one of your eye
 
 Note ... **The Parallax Shift angle** is actually twice as large as the angle used in computing the Tangent of R/D.
 
+"... Kepler's Third Law' which states that the orbital period-squared equals the distance to the sun-cubed."
 
 src: https://spacemath.gsfc.nasa.gov/transits/TRACEvenus.html
