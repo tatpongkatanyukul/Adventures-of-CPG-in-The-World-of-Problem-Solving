@@ -142,4 +142,5 @@ src: https://spacemath.gsfc.nasa.gov/transits/TRACEvenus.html
       * theta = P * 1891 arcseconds
       * P = shift length/sun length; shift length and sun length are measured from the image scale
       * 1891 arcseconds ~ 0.52527778 degrees (i.e., angular diameter of the sun)
+  * 3. Distance to the sun is a venus distance (from 2)/relative venus distance (from 1): x = xv  (xv/x).
   
