@@ -30,6 +30,7 @@ I dream of composing my curiosity-driven programming problems into a book. It ma
   * How to measure distance between earth and the moon (Astronomy)
     * related: [how to measure distance between earth and the sun](https://github.com/tatpongkatanyukul/AdventuresCPGinTheWorld/blob/main/measure_sun_distance.md)
   * What mechanism could make an useful operator in quantum computing (Quantum Computing)
+  * [Carbon cycle](https://en.wikipedia.org/wiki/Carbon_cycle) (Ecology / Earth Science)
   * ??? (Quantum physics)
   * ??? (Navier-Stokes, Fluid dynamics)
   * ??? (Thermodynamics)
